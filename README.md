@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Eluwina!!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -28,7 +28,8 @@
 <p align="center">
   <!-- <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp"> -->
   <!-- <img src= "https://ik.imagekit.io/lorinnio/ekipa-friz.gif?updatedAt=1679420109513"> -->
-  <img src= "https://ik.imagekit.io/lorinnio/eluwina.gif?updatedAt=1679420367811">
+  <!-- <img src= "https://ik.imagekit.io/lorinnio/eluwina.gif?updatedAt=1679420367811"> -->
+  <img src= "https://ik.imagekit.io/lorinnio/inazuma-eleven-ina11.gif?updatedAt=1679421456340">
   
 </p>
 
