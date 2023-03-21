@@ -52,7 +52,9 @@ fields_of_interests:
     "UI/UX",
   ]
 
-currently_learning: ["Javascript, Sass and faking podstawy techniki cyfrowej"]
+currently_learning:
+  ["Javascript, Sass and faking podstawy techniki cyfrowej..."]
+
 hobbies: ["Fortnite", "Genzie", "Heung-min Son"]
 ```
 
