@@ -29,7 +29,8 @@
   <!-- <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp"> -->
   <!-- <img src= "https://ik.imagekit.io/lorinnio/ekipa-friz.gif?updatedAt=1679420109513"> -->
   <!-- <img src= "https://ik.imagekit.io/lorinnio/eluwina.gif?updatedAt=1679420367811"> -->
-  <img src= "https://ik.imagekit.io/lorinnio/inazuma-eleven-ina11.gif?updatedAt=1679421456340">
+  <!-- <img src= "https://ik.imagekit.io/lorinnio/inazuma-eleven-ina11.gif?updatedAt=1679421456340"> -->
+  <img src= "https://ik.imagekit.io/lorinnio/inazuma-eleven-ina11__1_.gif?updatedAt=1679421444596">
   
 </p>
 
