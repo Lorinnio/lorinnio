@@ -27,7 +27,8 @@
 
 <p align="center">
   <!-- <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp"> -->
-  <div class="tenor-gif-embed" data-postid="20689857" data-share-method="host" data-aspect-ratio="0.89375" data-width="100%"><a href="https://tenor.com/view/ekipa-friz-muzyk-seba-wyluzowany0505-gif-20689857">Ekipa Friz GIF</a>from <a href="https://tenor.com/search/ekipa-gifs">Ekipa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src= "https://ik.imagekit.io/lorinnio/ekipa-friz.gif?updatedAt=1679420109513">
+  
 </p>
 
 ---
