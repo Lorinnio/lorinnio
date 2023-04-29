@@ -65,7 +65,7 @@ hobbies: ["Fortnite", "Genzie", "Heung-min Son"]
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned (fake, don't hire me)</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned (hire me pls)</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
