@@ -29,3 +29,8 @@
   <img src= "https://ik.imagekit.io/lorinnio/inazuma-eleven-ina11__1_.gif?updatedAt=1679421444596">
   
 </p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+<p align="center">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT"/>
+</p>
